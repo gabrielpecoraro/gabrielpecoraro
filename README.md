@@ -1,5 +1,15 @@
 <h1>Hi, I'm Gabriel! <br/><a href="https://github.com/gabrielpecoraro">Projects</a>, <a href="https://www.linkedin.com/in/gabrielpecoraro">Electrical Engineer</a>
 
+<h2>🚀 Gabriel Pecoraro | Electrical Engineer & AI Enthusiast</h2>
+Master’s student in Electrical Engineering specializing in Signal Processing and Artificial Intelligence graduating in August 2025. Proficient in C++, Python, VHDL, and experienced with TensorFlow, PyTorch, OpenCV, and embedded systems like Raspberry Pi and FPGA. Passionate about solving complex problems, optimizing algorithms, and developing intelligent systems.
+
+<h2>🔍 Looking for:</h2>h2>
+  
+Summer Internship or full-time opportunities in AI, Machine Learning, Signal Processing, and Embedded Systems.
+
+🔧 Tech: Machine Learning, Reinforcement Learning, Computer Vision, FPGA, Embedded Systems
+
+
 <h2>👨‍💻 Academic Projects:</h2>
 
 - <b>Digital Electronics</b>
@@ -11,14 +21,6 @@
 
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 
