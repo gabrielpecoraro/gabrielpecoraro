@@ -3,11 +3,12 @@
 <h2>🚀 Gabriel Pecoraro | Electrical Engineer & AI Enthusiast</h2>
 Master’s student in Electrical Engineering specializing in Signal Processing and Artificial Intelligence graduating in August 2025. Proficient in C++, Python, VHDL, and experienced with TensorFlow, PyTorch, OpenCV, and embedded systems like Raspberry Pi and FPGA. Passionate about solving complex problems, optimizing algorithms, and developing intelligent systems.
 
-<h2>🔍 Looking for:</h2>h2>
+<h2>🔍 Looking for:</h2>
   
 Summer Internship or full-time opportunities in AI, Machine Learning, Signal Processing, and Embedded Systems.
 
-🔧 Tech: Machine Learning, Reinforcement Learning, Computer Vision, FPGA, Embedded Systems
+<h2>🔧 Tech: </h2>
+  Machine Learning, Reinforcement Learning, Computer Vision, FPGA, Embedded Systems
 
 
 <h2>👨‍💻 Academic Projects:</h2>
@@ -33,7 +34,7 @@ Summer Internship or full-time opportunities in AI, Machine Learning, Signal Pro
 
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
