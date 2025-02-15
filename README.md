@@ -21,7 +21,7 @@ Summer Internship or full-time opportunities in AI, Machine Learning, Signal Pro
   - [Barnsley Fern](https://github.com/gabrielpecoraro/Barnsley-Fern)
 
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Autonomous Reinforcement Learning Pursuer![image] *On going project*
 
 <h2> 🤳 Connect with me:</h2>
 
