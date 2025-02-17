@@ -24,6 +24,7 @@ Summer Internship or full-time opportunities in AI, Machine Learning, Signal Pro
   - [Autonomous Reinforcement Learning Pursuer![image] *On going project*
   - [Hair Segmentation using U-Net architecture](https://github.com/gabrielpecoraro/Hair_Segmentation)
   - [BackDoor Attack on Diffusion Model](https://github.com/gabrielpecoraro/Backdoor_Attack_On_Diffusion_Model)
+  - https://github.com/gabrielpecoraro/PlayingWithCNN
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="GabrielPecoraro | LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
