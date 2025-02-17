@@ -1,7 +1,7 @@
 <h1>Hi, I'm Gabriel! <br/><a href="https://github.com/gabrielpecoraro">Projects</a>, <a href="https://www.linkedin.com/in/gabrielpecoraro">Electrical Engineer</a>
 
 <h2>🚀 Gabriel Pecoraro | Electrical Engineer & AI Enthusiast</h2>
-Master’s student in Electrical Engineering specializing in Signal Processing and Artificial Intelligence graduating in August 2025. Proficient in C++, Python, VHDL, and experienced with TensorFlow, PyTorch, OpenCV, and embedded systems like Raspberry Pi and FPGA. Passionate about solving complex problems, optimizing algorithms, and developing intelligent systems.
+Master’s student in Electrical Engineering specializing in Signal Processing and Artificial Intelligence graduating in August 2025. Proficient in C++, Python, VHDL, Java, C, Matlab and experienced with TensorFlow, PyTorch, OpenCV, and embedded systems like Raspberry Pi and FPGA. Passionate about solving complex problems, optimizing algorithms, and developing intelligent systems.
 
 <h2>🔍 Looking for:</h2>
   
