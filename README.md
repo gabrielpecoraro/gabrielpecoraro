@@ -6,6 +6,8 @@ Master’s student in Electrical Engineering specializing in Signal Processing a
 <h2>🔍 Looking for:</h2>
   
 Summer Internship or full-time opportunities in AI, Machine Learning, Signal Processing, and Embedded Systems.
+If you are interested by my profile, I am eager to discuss with you :
+✉️ : gabriel.pecoraro27uspro@gmail.com
 
 <h2>🔧 Tech: </h2>
   Machine Learning, Reinforcement Learning, Computer Vision, FPGA, Embedded Systems
