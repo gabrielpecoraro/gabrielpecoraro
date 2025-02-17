@@ -22,6 +22,7 @@ Summer Internship or full-time opportunities in AI, Machine Learning, Signal Pro
 
 - <b>Python</b>
   - [Autonomous Reinforcement Learning Pursuer![image] *On going project*
+  - [Hair Segmentation using U-Net architecture](https://github.com/gabrielpecoraro/Hair_Segmentation)
 
 <h2> 🤳 Connect with me:</h2>
 
