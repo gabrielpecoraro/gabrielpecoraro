@@ -23,7 +23,7 @@ If you are interested by my profile, I am eager to discuss with you :
   - [Barnsley Fern](https://github.com/gabrielpecoraro/Barnsley-Fern)
 
 - <b>Python</b>
-  - Autonomous Reinforcement Learning Pursuer *On going project*
+  - [Autonomous Reinforcement Learning Pursuer](https://github.com/gabrielpecoraro/research_project)
   - [Hair Segmentation using U-Net architecture](https://github.com/gabrielpecoraro/Hair_Segmentation)
   - [BackDoor Attack on Diffusion Model](https://github.com/gabrielpecoraro/Backdoor_Attack_On_Diffusion_Model)
   - [Small CNN Project](https://github.com/gabrielpecoraro/PlayingWithCNN)
